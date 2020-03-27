@@ -12,3 +12,5 @@ https://www.rxassist.org/pap-info/generic-drug-list-print
 https://www.disabled-world.com/medical/pharmaceutical/generic-equivalents.php
 
 https://www.emedexpert.com/lists/antidepressants.shtml
+
+https://www.emedexpert.com/lists/hypertension.shtml
