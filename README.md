@@ -14,3 +14,5 @@ https://www.disabled-world.com/medical/pharmaceutical/generic-equivalents.php
 https://www.emedexpert.com/lists/antidepressants.shtml
 
 https://www.emedexpert.com/lists/hypertension.shtml
+
+https://en.wikipedia.org/wiki/Medical_degree
