@@ -16,3 +16,5 @@ https://www.emedexpert.com/lists/antidepressants.shtml
 https://www.emedexpert.com/lists/hypertension.shtml
 
 https://en.wikipedia.org/wiki/Medical_degree
+
+https://dzone.com/articles/face-detection-using-html5
