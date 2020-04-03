@@ -18,3 +18,6 @@ https://www.emedexpert.com/lists/hypertension.shtml
 https://en.wikipedia.org/wiki/Medical_degree
 
 https://dzone.com/articles/face-detection-using-html5
+
+Doctor Type
+https://www.medicalnewstoday.com/articles/types-of-doctors#specialists
