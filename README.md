@@ -25,3 +25,7 @@ https://www.medicalnewstoday.com/articles/types-of-doctors#specialists
 https://medlineplus.gov/lab-tests/
 
 https://www.who.int/medicines/publications/essentialmedicines/en/
+
+https://www.britannica.com/topic/list-of-medical-tests-and-diagnostic-procedures-2074273
+
+
