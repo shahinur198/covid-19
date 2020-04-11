@@ -21,3 +21,7 @@ https://dzone.com/articles/face-detection-using-html5
 
 Doctor Type
 https://www.medicalnewstoday.com/articles/types-of-doctors#specialists
+
+https://medlineplus.gov/lab-tests/
+
+https://www.who.int/medicines/publications/essentialmedicines/en/
