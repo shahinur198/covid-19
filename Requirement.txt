@@ -1,0 +1,13 @@
+pip install flask==1.1.1
+pip install numpy
+pip install Flask-Cors
+pip install cryptography
+pip install Flask-Session==0.3.1
+pip install werkzeug==0.16.0
+pip install eventlet
+pip install flask_socketio
+pip install twilio
+pip install requests
+pip install flask_moment
+
+pip install flask_restful
