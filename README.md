@@ -36,3 +36,6 @@ https://www.youtube.com/watch?v=1giLUOmqU04
 
 পালস অক্সিমিটার দিতে পারে করোনায় শ্বাসকষ্টের আগাম খবর
 https://www.youtube.com/watch?v=5myxNREKdJ8
+
+# বেক্সিমকো ফার্মার ওষুধ 'ইভেরা টুয়েলভ' সেবনে মিলছে সুফল II Evera 12
+https://www.youtube.com/watch?v=3DSC0JXBvzs
