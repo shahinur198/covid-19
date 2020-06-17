@@ -43,3 +43,6 @@ https://www.youtube.com/watch?v=3DSC0JXBvzs
 https://www.youtube.com/watch?v=AahZyeVeHCI
 
 https://www.youtube.com/watch?v=5yBB2khlhTo
+
+শ্বাসকষ্টের ক্ষেত্রে নুভিস্তার ডেক্সামেথাসোন নিয়ে আশার বাণী, তবে
+https://www.youtube.com/watch?v=N8dmxhuCvmY
