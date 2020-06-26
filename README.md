@@ -46,3 +46,9 @@ https://www.youtube.com/watch?v=5yBB2khlhTo
 
 শ্বাসকষ্টের ক্ষেত্রে নুভিস্তার ডেক্সামেথাসোন নিয়ে আশার বাণী, তবে (best)
 https://www.youtube.com/watch?v=N8dmxhuCvmY
+
+How to Create a COVID-19 Negative Pressure Room
+https://www.youtube.com/watch?v=p1hcDpzKrqY
+
+
+central oxygen supply system in bangladesh
